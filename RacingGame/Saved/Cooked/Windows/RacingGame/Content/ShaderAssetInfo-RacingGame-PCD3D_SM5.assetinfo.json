@@ -1,0 +1,605 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "94F6A80AB07F19F2D2D6A5606A77868D44C9AB6E",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "06E640EF3FB5184CAD6F94E630FE017158F56D76",
+			"Assets": [
+				"/Game/MapLayouts/ForestTracks/ForestTrack_TimeAttack",
+				"/Game/MapLayouts/ForestTracks/ForestTrack_TimeAttack_DayAndNight",
+				"/Game/MapLayouts/ForestTracks/ForestTrack_Circuit",
+				"/Game/MapLayouts/ForestTracks/ForestTrack_Circuit_DayAndNight",
+				"/Game/MapLayouts/ForestTracks/ForestTrack_Practice",
+				"/Game/MapLayouts/ForestTracks/ForestTrack_Practice_DayAndNight",
+				"/Game/MapLayouts/ForestTracks/ForestTrack_Practice/_Generated_/ForestTrack_Practice_MainGrid_L0_X0_Y0_DL0",
+				"/Game/MapLayouts/ForestTracks/ForestTrack_Practice_DayAndNight/_Generated_/ForestTrack_Practice_DayAndNight_MainGrid_L0_X0_Y0_DL0"
+			]
+		},
+		{
+			"ShaderMapHash": "BFAB46E34E5E26791807C716DB1E440FD49DF64C",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CE470C48EC7DA4DAECE97A1A6D53637CC9E41E07",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E2CFAF88FB7A79A6CCBDC5BA22FBC261C833CE75",
+			"Assets": [
+				"/Game/MapLayouts/SnowTracks/SnowTrack_TimeAttack",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_TimeAttack1",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_TimeAttack_DayAndNight",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_TimeAttack_DayAndNight1",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit1",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit_DayAndNight",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit_DayAndNight1",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice1",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice_DayAndNight",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice_DayAndNight1",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice1/_Generated_/SnowTrack_Practice1_MainGrid_L2_X0_Y-1_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice1/_Generated_/SnowTrack_Practice1_MainGrid_L2_X-1_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice1/_Generated_/SnowTrack_Practice1_MainGrid_L1_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice/_Generated_/SnowTrack_Practice_MainGrid_L2_X0_Y-1_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice/_Generated_/SnowTrack_Practice_MainGrid_L2_X-1_Y-1_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice/_Generated_/SnowTrack_Practice_MainGrid_L2_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice1/_Generated_/SnowTrack_Practice1_MainGrid_L2_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice_DayAndNight1/_Generated_/SnowTrack_Practice_DayAndNight1_MainGrid_L2_X0_Y-1_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice_DayAndNight1/_Generated_/SnowTrack_Practice_DayAndNight1_MainGrid_L2_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice_DayAndNight1/_Generated_/SnowTrack_Practice_DayAndNight1_MainGrid_L1_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice1/_Generated_/SnowTrack_Practice1_MainGrid_L2_X-1_Y-1_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit/_Generated_/SnowTrack_Circuit_MainGrid_L1_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice_DayAndNight/_Generated_/SnowTrack_Practice_DayAndNight_MainGrid_L2_X-1_Y-1_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice_DayAndNight/_Generated_/SnowTrack_Practice_DayAndNight_MainGrid_L2_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit1/_Generated_/SnowTrack_Circuit1_MainGrid_L2_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit/_Generated_/SnowTrack_Circuit_MainGrid_L2_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice/_Generated_/SnowTrack_Practice_MainGrid_L2_X-1_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice/_Generated_/SnowTrack_Practice_MainGrid_L1_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice_DayAndNight1/_Generated_/SnowTrack_Practice_DayAndNight1_MainGrid_L2_X-1_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit_DayAndNight/_Generated_/SnowTrack_Circuit_DayAndNight_MainGrid_L1_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit_DayAndNight/_Generated_/SnowTrack_Circuit_DayAndNight_MainGrid_L2_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit_DayAndNight/_Generated_/SnowTrack_Circuit_DayAndNight_MainGrid_L2_X0_Y-1_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice_DayAndNight1/_Generated_/SnowTrack_Practice_DayAndNight1_MainGrid_L2_X-1_Y-1_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit_DayAndNight/_Generated_/SnowTrack_Circuit_DayAndNight_MainGrid_L2_X-1_Y-1_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice_DayAndNight/_Generated_/SnowTrack_Practice_DayAndNight_MainGrid_L2_X0_Y-1_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit_DayAndNight1/_Generated_/SnowTrack_Circuit_DayAndNight1_MainGrid_L2_X-1_Y-1_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit_DayAndNight1/_Generated_/SnowTrack_Circuit_DayAndNight1_MainGrid_L2_X0_Y-1_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit_DayAndNight1/_Generated_/SnowTrack_Circuit_DayAndNight1_MainGrid_L2_X-1_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit1/_Generated_/SnowTrack_Circuit1_MainGrid_L1_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit/_Generated_/SnowTrack_Circuit_MainGrid_L2_X0_Y-1_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit/_Generated_/SnowTrack_Circuit_MainGrid_L2_X-1_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit/_Generated_/SnowTrack_Circuit_MainGrid_L2_X-1_Y-1_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit_DayAndNight1/_Generated_/SnowTrack_Circuit_DayAndNight1_MainGrid_L2_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit1/_Generated_/SnowTrack_Circuit1_MainGrid_L2_X-1_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice_DayAndNight/_Generated_/SnowTrack_Practice_DayAndNight_MainGrid_L1_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit1/_Generated_/SnowTrack_Circuit1_MainGrid_L2_X-1_Y-1_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice_DayAndNight/_Generated_/SnowTrack_Practice_DayAndNight_MainGrid_L2_X-1_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit1/_Generated_/SnowTrack_Circuit1_MainGrid_L2_X0_Y-1_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit_DayAndNight1/_Generated_/SnowTrack_Circuit_DayAndNight1_MainGrid_L1_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit_DayAndNight/_Generated_/SnowTrack_Circuit_DayAndNight_MainGrid_L2_X-1_Y0_DL0"
+			]
+		},
+		{
+			"ShaderMapHash": "BF3B16901400FD0AA455637A2FEF51F6DD7062E5",
+			"Assets": [
+				"/Game/MapLayouts/SnowTracks/SnowTrack_TimeAttack",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_TimeAttack1",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_TimeAttack_DayAndNight",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_TimeAttack_DayAndNight1",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit1",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit_DayAndNight",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit_DayAndNight1",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice1",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice_DayAndNight",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice_DayAndNight1"
+			]
+		},
+		{
+			"ShaderMapHash": "235C47D252DC8F1EAD541E4325444F9F60ACDBD5",
+			"Assets": [
+				"/Game/MapLayouts/SnowTracks/SnowTrack_TimeAttack",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_TimeAttack1",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_TimeAttack_DayAndNight",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_TimeAttack_DayAndNight1",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit1",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit_DayAndNight",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit_DayAndNight1",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice1",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice_DayAndNight",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice_DayAndNight1",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice1/_Generated_/SnowTrack_Practice1_MainGrid_L1_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice_DayAndNight1/_Generated_/SnowTrack_Practice_DayAndNight1_MainGrid_L1_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice/_Generated_/SnowTrack_Practice_MainGrid_L1_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice_DayAndNight/_Generated_/SnowTrack_Practice_DayAndNight_MainGrid_L1_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit_DayAndNight1/_Generated_/SnowTrack_Circuit_DayAndNight1_MainGrid_L1_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit1/_Generated_/SnowTrack_Circuit1_MainGrid_L1_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit_DayAndNight/_Generated_/SnowTrack_Circuit_DayAndNight_MainGrid_L1_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit/_Generated_/SnowTrack_Circuit_MainGrid_L1_X0_Y0_DL0"
+			]
+		},
+		{
+			"ShaderMapHash": "D0C47DF4906021D1E3B1F6DB402726C22094C51F",
+			"Assets": [
+				"/Game/MapLayouts/SnowTracks/SnowTrack_TimeAttack",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_TimeAttack1",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_TimeAttack_DayAndNight",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_TimeAttack_DayAndNight1",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice1/_Generated_/SnowTrack_Practice1_MainGrid_L1_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice_DayAndNight1/_Generated_/SnowTrack_Practice_DayAndNight1_MainGrid_L1_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice/_Generated_/SnowTrack_Practice_MainGrid_L1_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Practice_DayAndNight/_Generated_/SnowTrack_Practice_DayAndNight_MainGrid_L1_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit_DayAndNight1/_Generated_/SnowTrack_Circuit_DayAndNight1_MainGrid_L1_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit1/_Generated_/SnowTrack_Circuit1_MainGrid_L1_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit_DayAndNight/_Generated_/SnowTrack_Circuit_DayAndNight_MainGrid_L1_X0_Y0_DL0",
+				"/Game/MapLayouts/SnowTracks/SnowTrack_Circuit/_Generated_/SnowTrack_Circuit_MainGrid_L1_X0_Y0_DL0"
+			]
+		},
+		{
+			"ShaderMapHash": "22BC076AAAE2483DA36457FDC911D4EBE0433F77",
+			"Assets": [
+				"/Game/MapLayouts/SaltFlatsTracks/SaltFlats_P_Circuit",
+				"/Game/MapLayouts/SaltFlatsTracks/SaltFlats_P_TimeAttack",
+				"/Game/MapLayouts/SaltFlatsTracks/SaltFlats_P_Practice_DayAndNight",
+				"/Game/MapLayouts/SaltFlatsTracks/SaltFlats_P_Circuit1",
+				"/Game/MapLayouts/SaltFlatsTracks/SaltFlats_P_Circuit_DayAndNight",
+				"/Game/MapLayouts/SaltFlatsTracks/SaltFlats_P_Circuit_DayAndNight1",
+				"/Game/MapLayouts/SaltFlatsTracks/SaltFlats_P_Practice",
+				"/Game/MapLayouts/SaltFlatsTracks/SaltFlats_P_Practice1",
+				"/Game/MapLayouts/SaltFlatsTracks/SaltFlats_P_Practice_DayAndNight1"
+			]
+		},
+		{
+			"ShaderMapHash": "4B24C74DD2C1A2638A77B89495FAAA146B6DF94B",
+			"Assets": [
+				"/Game/Vehicles/SportsCar/Materials/MI_SportsCar_Chassis"
+			]
+		},
+		{
+			"ShaderMapHash": "40F785A0EF2782496BA3DB7617EBFE291F2FA196",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0DDE0360B7A9551032D78D689B60D04242F38C4C",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CE81E12FD69C3087B0F3AEE371C9A5E44528DAB7",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "368A6AF8C4AF90BD38DCB5B4BFF9EC392514C3DB",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "366C397FF3E0FA07B9843D7B7504E38AAA885FE0",
+			"Assets": [
+				"/Engine/MapTemplates/Sky/M_Procedural_Sky_Night"
+			]
+		},
+		{
+			"ShaderMapHash": "F2BF870B3AA19CA396785C4A246ADCD1B9273ED0",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "3E0451A8956F621741AEE629F25C2CBBA7415C54",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "A1D56ACC8312A6A8B558E044223BE670E16F4106",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "77166EDB95165035437BE93DA40D6471776F596D",
+			"Assets": [
+				"/Game/Environment/M_ForestLandscape"
+			]
+		},
+		{
+			"ShaderMapHash": "052FE368262AD42603C7876608812AE97D6F79EC",
+			"Assets": [
+				"/HairStrands/Materials/HairMeshesDefaultMaterial",
+				"/HairStrands/Materials/HairDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0FE8AD572186BE65C6D3EAAF66CFA915CC642DFD",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Billboard_Material/M_MS_Billboard_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "36E80C7513747E206B5AA2CD4CA7FFCF118D732D",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "C85B209860A3FB86021AEE3D2189452BFE4BB059",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "198C864672952D070104C6A763F58A5979F3A08E",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Default_Fuzz_Material/M_MS_Default_Fuzz_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "FE397AF39B85354A240F2802198FC3E1964D64FB",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "FBB9EA6B720AA8B5DF8EDF88E575F9D7943A5E1F",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "5239ACA6771CAC3327BD9E0F33572ECBB04EEFFD",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5863C018A54C117E2CE80F80D9A4905AF2C7A029",
+			"Assets": [
+				"/Game/MapLayouts/Materials/M_Landscape"
+			]
+		},
+		{
+			"ShaderMapHash": "13977AE89F1E26B347162BB4DB27CEC6E0955023",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Default_Transmission_Material/M_MS_Default_Transmission_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "501D2AC0A230D7467BE60AD221D63AA30766373D",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "04B787784BCC496F66842CE0EFF195C481B5AD8E",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "EBF9998EBD7706C16CBB1682EBBBADC4C17170C1",
+			"Assets": [
+				"/Game/SaltFlats/Art/SaltFlats/BGMountains/M_BGMountain"
+			]
+		},
+		{
+			"ShaderMapHash": "15E1F93C333ADAA0860A11B8BFFD568FA89EE32F",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B84EDD3F074B5E54313FD82E5CE1FB3735D38757",
+			"Assets": [
+				"/Game/Vehicles/SportsCar/Materials/M_SportsCar_Wheel"
+			]
+		},
+		{
+			"ShaderMapHash": "4B3660896482641A2DABEB82DD1E6C46B26F6D9F",
+			"Assets": [
+				"/Game/Vehicles/SportsCar/Materials/M_SportsCar"
+			]
+		},
+		{
+			"ShaderMapHash": "3FF0DCF2F5F6875FC86300A8476BCED70995A0D6",
+			"Assets": [
+				"/Game/SaltFlats/Art/SaltFlats/ScatterProps/M_SaltFlatProps"
+			]
+		},
+		{
+			"ShaderMapHash": "FA61C6DA45CF4455E5D7C6230CB3BC77E2B5B1CF",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "F9E381AFA82B3DACAB923678693AEB1C351E4728",
+			"Assets": [
+				"/Game/Track/M_Track"
+			]
+		},
+		{
+			"ShaderMapHash": "13412B159B0D5497E37AE66815F9BDCFA4AFE8CA",
+			"Assets": [
+				"/Game/SaltFlats/Art/Cloud/m_SimpleVolumetricCloud_128"
+			]
+		},
+		{
+			"ShaderMapHash": "9C6B611BEA04C002DC382E3DFC9CA1B2CF3DDDD3",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "6348C62676427D3BDE877ABB86C38B54254A33D1",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "57DD81F02CC06CC15AA9F0B73C1B3A3BA0EF1CF3",
+			"Assets": [
+				"/Engine/MapTemplates/Sky/M_Procedural_Sky_MASTER02"
+			]
+		},
+		{
+			"ShaderMapHash": "8C97D91E8C5E391A96634B2CE1B15F78D981A471",
+			"Assets": [
+				"/Game/SaltFlats/Art/Tracks/M_Tracks_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "25B342F19373A1B6937AB9F94C0D0457491D57A1",
+			"Assets": [
+				"/Game/SaltFlats/Art/SaltFlats/Surface/M_IH_FloorCracks"
+			]
+		},
+		{
+			"ShaderMapHash": "D0435F9AC9C8BBEC5B0AD6C933766627D2A7198A",
+			"Assets": [
+				"/Game/SaltFlats/Art/SaltFlats/Surface/M_IH_Floor"
+			]
+		},
+		{
+			"ShaderMapHash": "4F1316DB7FBE835BA18216D39F485884442FACD6",
+			"Assets": [
+				"/Game/SaltFlats/Art/SaltFlats/ScatterProps/SaltChunks/M_ScatterSaltChunks"
+			]
+		},
+		{
+			"ShaderMapHash": "2892627456527A4D85C01D77D8ACACA95C409511",
+			"Assets": [
+				"/Game/SaltFlats/Art/HeatDistort/M_HeatDistortion"
+			]
+		},
+		{
+			"ShaderMapHash": "F3949108D28F6186ACCAD045BA8D79922F27B60D",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "C78DF1C51AC2F38EE15D0003DC963ED7D83AE89A",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "EEBD6FD43AB92DF1F14C612B3E2F9C6CA92B3B62",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7A78CE14B4BD91F2C5B518C1C7B6C8DFF1A70157",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "A8D8A6CF5C2F1B0DD1FA169B45BA3B2476CCA19C",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough"
+			]
+		},
+		{
+			"ShaderMapHash": "B4162EC6B8A619FD5606309379770EF2F3BF023C",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "3403B5F4A69183AB7BFFC359723D5EBB8EA97CDD",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "B582BC590FE7EEFC06EEB491E954E8AD3DE88161",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "FCB5F3C9CC541422DC22EFC1F46186481C9763DB",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "DFCEE14B748D5F99413F03AC65F73B7EFF35B7D0",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "70A103EBABEA6420418FBF0AE96C045344B0F847",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "B0A5D045C46395B3B400E68B0FCB430DD34F3512",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5F6C68D6FA18712AD300EEB96AD127995BA0C0AD",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "79AE4E1CF6B73702DB3821F3007C337DCF3D89EE",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1D85CC9FE0BEE81FD06ED9B35C6C6CFE34911AFE",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "43F509B74F9D41465EBE5F23D99264A9B5CB03A1",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "15E0EC8F59B03999634C9B67A003E1AC249B3BE3",
+			"Assets": [
+				"/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0D22921EFA8516CD6DEC8B866FD52DE3E3B907CC",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "31050EFA7B1D5A186DDA55EA9E817771B9CA3F8A",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1D36E5663530FF6A3A5FCBB640F8A1D70BD6BEF5",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EB29830576678FEC8056CF91F873E8C91167152D",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7B2824C3F3B1A7A5873A0804AF1769CF037D9F9E",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "AFD7FCC814425C784AD9B23C3D221357769153F6",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "45F1CFCBEF73D455AF060EDD2F001DB63330B155",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "47C88C3728D37C9C1A25DD6B8F8DCE33FE9DF096",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "EC63DBBF9A28C040B4F5CE1721BB5770FBE265A6",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "4325A0A02FA0BF1818E8FAEEC012361B127CC961",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "45BB6C2AC4128C29BF92A1D0A50CEED2687E5F2F",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0966DC9263CD395C0C897D9722DEB4EE775E1B88",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "92CE8E7CD243CA6432269A42925BE9A20E32AA49",
+			"Assets": [
+				"/Game/SaltFlats/Calibration/M_MatteBall"
+			]
+		},
+		{
+			"ShaderMapHash": "614085F7844E492A6F9E20E83C5F838BC9F5A699",
+			"Assets": [
+				"/Game/SaltFlats/Calibration/M_ChromeBall"
+			]
+		},
+		{
+			"ShaderMapHash": "0A9C942CAA68C5E459F978BFB40A72CA5281D2B7",
+			"Assets": [
+				"/Game/SaltFlats/Calibration/M_MacBethChart"
+			]
+		},
+		{
+			"ShaderMapHash": "EAB7C1A85AF693F9B7BD0105DE268719C8C8C332",
+			"Assets": [
+				"/Game/Vehicles/SportsCar/Materials/M_SportsCar_Lights"
+			]
+		},
+		{
+			"ShaderMapHash": "A31B984E42096A25433D490A110D580ABD6803DF",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "B4F1978E975F31F47C9A2CAA46156093B2A60BF6",
+			"Assets": [
+				"/Game/SaltFlats/Art/PostProcess/PPM_NeutralDensityGrad"
+			]
+		}
+	]
+}
