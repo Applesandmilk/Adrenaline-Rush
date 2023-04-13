@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unreal engine projects\\racinggame\\intermediate\\source\\racinggame.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal engine projects\\racinggame\\intermediate\\build\\win64\\racinggame\\shipping\\core\\sharedpch.core.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal engine projects\\racinggame\\intermediate\\build\\win64\\unrealgame\\shipping\\racinggame\\definitions.racinggame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
